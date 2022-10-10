@@ -1,0 +1,13 @@
+{
+    "relyingPartyUUID": "",
+    "relyingPartyName": "",
+    "certificateLevel": "QUALIFIED",
+    "hash": "",
+    "hashType": "SHA512",
+    "allowedInteractionsOrder": [
+      {
+        "type": "confirmationMessage",
+        "displayText60": "Here is the text for the user"
+      }
+    ]
+  }
